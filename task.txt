@@ -1,0 +1,34 @@
+Hospital management Infomation System [HMIS]
+
+1- pages :
+- index Page divided into two parts [links and welcome page "welcome to our HMIS"].
+- Hospital Form [id, name, address, phone ].
+- Departments Form [id, name].
+- Rooms Form [id, name, department_id, hospital_id ].
+- Patients Form [id, name, address, phone , hospital_id, room_id , image].
+- Doctors Form [id, name, address, phone , department_id].
+2- validation in form pages .
+3- validation xss .
+4- patient can upload image.
+5- each link show tables with :
+- add button to open form without data to insert new rows.
+- add new column at the end of row {Actions}.
+- each row has update and delete links in Actions column .
+- delete link remove record.
+- update link open form with data to save.
+- show table after saving [create - update - delete].
+6- build your database ERD and create database [hospital] with tables [Hospital, Rooms,Patients, Departments,Doctors].
+7- Don't use sessions only use saving or updating or deleting into your database.
+8- apply Object Oriented programming OOP as assignment 4 into this project: 
+build core file to be object oriented into two class:
+- class database [create, update, delete, select, connect, close].
+- class controller [array_sort , data validation ,saving data, select data ].
+Points applied: 
+1- 30 Points 
+2- 10 Points
+3- 10 Points
+4- 10 Points
+5- 30 Points
+6- 10 Points
+7- 20 Points
+8- 50 Points

@@ -1,0 +1,64 @@
+
+/*|///////////////////////////////////////////////////////|
+- |Mohamed Ramadan Hamza|
+- |12Aug2018 @ 10:00 AM|
+|/////////////////////////////////////////////////////////|*/
+.navbar-brand{ padding-right: 780px; }
+            
+.user{ margin-bottom: -16px;  }
+.navbar .user h4{ color: whitesmoke; }
+
+/*.panel {*/
+    /*margin-bottom: 20px;*/
+    /*background-color: #fff;*/
+    /*border: 1px solid transparent;*/
+    /*border-radius: 4px;*/
+    /*-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);*/
+    /*box-shadow: 1px 1px 1px rgba(0,0,0,.05);*/
+/*}*/
+
+
+#wrapper{margin-bottom: 100px;}
+
+table{margin-bottom: 350px; }
+
+/*th{ background-color:#cccccc; }
+
+td{ border:1px groove; }
+*/
+td.tr{ color: #333;}
+td.violet{ background-color:violet; }
+
+td.green{ background-color:green; }
+
+td.red{ background-color: #dc3545; }
+
+td.yallow{ background-color: #ffc107; }
+
+/*div.dataRow{ width:45%; position: relative; float: left; }
+*/
+/*span.yellow{ background-color:yellow;}
+*/
+	
+div.fullRow{ width:100%;}
+	
+label {width:100px; clear:left; text-align:left; }
+	
+.btn{ margin: 10px; margin-left: 0;  }
+	
+/*div.clearStyle{ clear:left; position:relative; }
+*/
+h3{ color: #4f5b93; font-size: 2.714rem; padding-bottom: 30px;text-align: center; }
+
+
+
+
+
+/*#test{ background-color:#4f5b93; color: #fff; }
+*/	
+				/*------------->> main Form <<---------------*/	
+.container .col-lg-4{ margin-bottom: 15px; margin-top: 0px;     }
+
+.dropdown-menu-left{font-family: monospace; background-color: #ddd;}
+
+/*.table>tbody>tr>td.img{width: 8%;}*/
